@@ -1,4 +1,3 @@
-Gemini said
 Hi, I'm Sarthak! 👋
 I am a Final Year CS student at VIT Bhopal who builds full-stack applications with a dash of AI. I enjoy turning complex logic into clean interfaces, mostly fueled by Punjabi music and curiosity.
 
