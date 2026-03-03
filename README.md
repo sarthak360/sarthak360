@@ -1,16 +1,22 @@
-## Hi there 👋
+Gemini said
+Hi, I'm Sarthak! 👋
+I am a Final Year CS student at VIT Bhopal who builds full-stack applications with a dash of AI. I enjoy turning complex logic into clean interfaces, mostly fueled by Punjabi music and curiosity.
 
-<!--
-**sarthak360/sarthak360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I’m Up To
 
-Here are some ideas to get you started:
+The MERN Specialist: I spend a lot of time in the MongoDB, Express, React, and Node.js ecosystem.
+AI Tinkerer: I enjoy building things that "think," like my AI-Powered Resume Tailor or Mental Wellness Chatbot.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+The Coding Metric: If you believe in the "lines of code" metric, I’ve written enough to fill several very thick books—but I prefer quality over quantity!
+🛠️ My Digital Toolkit
+Core: Python, Java, and C++.
+Web: React, Node.js, and JavaScript.
+AI/ML: NLP (spaCy, Hugging Face) and Scikit-learn.
+Tools: Git, GitHub, and Figma.
+
+⚡ Fun Fact
+I once built a recommendation system that hits 88% accuracy, which is probably more decisive than I am when picking a movie.
+
+📫 Get in Touch
+Website: devsarthak.online 
+LinkedIn: in/sarthak-kumar-877552251 
